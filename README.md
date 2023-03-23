@@ -3,7 +3,7 @@
 I'm João Cecconello, a Technical Support Engineer that loves to develop and crazy about webservers. I started programming in 2018 when I enrolled a Technical Course in Internet Information System and since there I've learned a lot of stuff, such as C++ (basics), JavaScript, HTML5, CSS3, PHP, MySQL, React, React Native, Networks (basics), Docker, Linux and other things.
 </p>
 <p>
-I currently work at Umbler, a brasilian website and email hosting startup. As I said, I'm a Technical Support Engineer, so I troubleshoot some issues (internal departments and employees and some customers) and talk to other other departments. During these 2+ years I've been there I learned about DNS, domains, websites hosting, email hosting and I'm still learning.
+I currently work at Umbler, a brasilian website and email hosting startup. As I said, I'm a Technical Support Engineer, so I troubleshoot some issues (internal departments and employees and some customers) and talk to other other departments. During these 2+ years I've been there I learned about DNS, domains, websites hosting, email hosting and I'm still learning everyday.
 </p>
 <p>
 Here you're going to find personal projects that I developed or still developing. If you can, take your time to check them!
