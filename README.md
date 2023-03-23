@@ -17,7 +17,7 @@ Here you're going to find personal projects that I developed or still developing
 </ul>
 
 <h2>What I know</h2>
-<div style="display:flex; flex-direction:row; flex-grow:1; flex-shrink:1; flex-wrap:wrap; width:100%">
+<div style="display:flex; width:100%">
   <img style="display:flex; max-height: 50px; width:auto" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img style="display:flex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="display:flex" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
